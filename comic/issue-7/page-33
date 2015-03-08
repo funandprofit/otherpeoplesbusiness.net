@@ -1,0 +1,109 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta http-equiv="Description" content="Other People's Business is a webcomic by K. Sandra Fuhr about Daniela 'Danny' Alvarez' road to feeling human again." />
+    <link href="http://feeds.feedburner.com/opb" type="application/rss+xml" rel="alternate" title="Other People's Business" />
+    <link href="http://feeds.feedburner.com/opb-commentary" type="application/rss+xml" rel="alternate" title="Other People's Business Commentary" />
+    <title>Other People's Business</title>
+    <link href="/stylesheets/opb.css" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/all.js" type="text/javascript"></script>
+    <style>#wrapper{-moz-border-radius:3ex;-webkit-border-radius:3ex;}</style>
+  </head>
+  <body>
+    <div id="top">
+      <a href="/"><img src="/images/opb-logo.jpg" alt="Other People's Business" title="Other People's Business" /></a>
+    </div>
+    <div id="menu">
+      <ul>
+        <li><a id="home"  href="/"><span class="invisible">Home</span></a></li>
+        <li><a id="about"  href="/about"><span class="invisible">About</span></a></li>
+        <li><a id="cast"  href="/cast"><span class="invisible">Cast</span></a></li>
+        <li><a id="archive"  href="/archive"><span class="invisible">Archive</span></a></li>
+        <li><a id="rss" href="http://feeds.feedburner.com/opb"><span class="invisible">RSS</span></a></li>
+        <li><a id="commentary" href="http://community.livejournal.com/otherpeoplesbiz/"><span class="invisible">Commentary</span></a></li>
+        <li><a id="store"  href="/store"><span class="invisible">Store</span></a></li>
+        <li><a id="fanart"  href="/fanart"><span class="invisible">Fanart</span></a></li>
+        <li><a id="links"  href="/links"><span class="invisible">Links</span></a></li>
+        <li><a id="tumblr" href="http://otherpeoplesbusiness.tumblr.com"><span class="invisible">Tumblr</span></a></li>
+      </ul>
+    </div>
+    <div class="center">
+      <script type="text/javascript"><!--
+        google_ad_client = "pub-6505714309507357";
+        google_ad_slot = "6602099698";
+        google_ad_width = 728;
+        google_ad_height = 90;
+        //-->
+      </script>
+      <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </div>
+    <div id="main" class="center">
+  <div class="ads left">
+    <script type="text/javascript"><!--
+      google_ad_client = "pub-6505714309507357";
+      google_ad_slot = "4112337665";
+      google_ad_width = 120;
+      google_ad_height = 600;
+      //-->
+    </script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  </div>
+  <div class="ads right">
+    <script type="text/javascript"><!--
+      google_ad_client = "pub-6505714309507357";
+      google_ad_slot = "6736740443";
+      google_ad_width = 120;
+      google_ad_height = 600;
+      //-->
+    </script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  </div>
+  <p style="font-weight: bold;">Don't forget to read the running <a href="http://community.livejournal.com/otherpeoplesbiz/">OPB Commentary</a> at the <a href="http://community.livejournal.com/otherpeoplesbiz/">OPB LiveJournal</a>!<br />You should also follow the author on <a href="http://twitter.com/Snakewife">Twitter</a>!</p>
+  <p style="font-weight: bold;">Subscribe to the <a href="http://feeds.feedburner.com/opb">OPB RSS feed</a> to get automatic updates of the comic! There's also an <a href="http://feeds.feedburner.com/opb-commentary">OPB commentary feed</a>!</p>
+  <div id="wrapper">
+    <div id="title">
+      <h1>Sanctuary: page 33</h1>
+    </div>
+    <img id="comic" src="/images/comics/07pg33.gif" alt="Other People's Business" />
+    <div id="nav">
+        <a href="/comic/issue-1/cover"><img src="/images/nav-first.png" alt="First" title="Go to the first comic" /></a>
+        <a href="/comic/issue-7/page-32"><img src="/images/nav-prev.png" alt="Previous" title="Go to previous comic" /></a>
+        <a href="/comic/issue-7/page-34"><img src="/images/nav-next.png" alt="Next" title="Go to next comic" /></a>
+        <a href="/"><img src="/images/nav-latest.png" alt="Lastest" title="Go to the latest comic" /></a>
+    </div>
+  </div>
+</div>
+
+    <div id="footer">
+      <div id="inside">
+        <div id="f-1">
+          <h2>Copyright notice</h2>
+          <p>Other People's Business &copy; 2009-2011<br /><a href="http://www.snakewife.com" title="Click to visit the author's website at snakewife.com">K. Sandra Stanley</a></p>
+          <p>Do not distribute or copy any part of this site without permission.</p>
+        </div>
+        <img class="sep" src="/images/sep.png" alt="" />
+        <div id="f-2">
+          <h2>About Other People's Business</h2>
+          <p>After a tragic event, down-on-her-luck Daniela "Danny" Alvarez is being coaxed back into a life of normality by her best friend, sensible sous chef Mercedes, when a smart-mouthed sleazy little thief bursts through Danny's window and drags her into a world full of conspiracies, cults, and evil corporations, and accidentally gets Danny on the road to feeling human again.</p>
+        </div>
+        <img class="sep" src="/images/sep.png" alt="" />
+        <div id="f-3">
+          <h2>Archives</h2>
+          <p> View the <a href="/archive">Other People's Business archives</a>.</p>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      try {
+        var pageTracker = _gat._getTracker("UA-7711978-9");
+        pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
+  </body>
+</html>
