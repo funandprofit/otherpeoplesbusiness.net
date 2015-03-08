@@ -9,7 +9,7 @@ comics.each_with_index do |comic_image, index|
   next_comic = comic_image == comics.last  ? nil : comics[index + 1].match(/^(?<issue>\d{2})pg(?<page>\d{2})/)
   prev_comic = comic_image == comics.first ? nil : comics[index - 1].match(/^(?<issue>\d{2})pg(?<page>\d{2})/)
 
-  proxy "/comic/issue-#{comic[:issue].to_i}/page-#{comic[:page].to_i}", '/comic_template.html', locals: {
+  proxy "/comic/issue-#{comic[:issue].to_i}/page-#{comic[:page].to_i}.html", '/comic_template.html', locals: {
     image: comic,
     issue: issues[comic[:issue].to_i],
     page:  comic[:page].to_i,
@@ -18,7 +18,7 @@ comics.each_with_index do |comic_image, index|
   }
 end
 
-proxy "/comic/issue-1/cover", 'comic_template.html', locals: {
+proxy "/comic/issue-1/cover.html", 'comic_template.html', locals: {
   image: 'cover01.png',
   issue: issues[1],
   page: 'cover',
